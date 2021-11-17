@@ -1,0 +1,9 @@
+.OffreList {
+  width: 90% !important;
+  margin-top: 20% !important;
+  display: flex !important;
+  flex-wrap: wrap !important;
+  margin: 10% !important;
+  justify-content: space-between;
+  padding: 10% !important;
+}

@@ -1,0 +1,28 @@
+.h5 {
+  font-size: large !important;
+  font-family: fantasy !important;
+  font-weight: 500 !important;
+  color: rgb(221, 90, 122) !important;
+  font-weight: bolder i !important;
+}
+.text {
+  font-family: "Times New Roman", Times, serif !important;
+  text-align: center !important;
+}
+
+.Offre {
+  width: 15rem !important;
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid black !important;
+  height: 25rem !important;
+  text-align: center;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: rgb(221, 90, 122) !important;
+  border-color: rgb(221, 90, 122) !important;
+  font-family: "Times New Roman", Times, serif;
+  padding: 5%;
+}

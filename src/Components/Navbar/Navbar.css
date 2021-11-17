@@ -1,0 +1,51 @@
+header {
+  background-color: #86606f;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+
+  font-family: poppins;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+}
+header {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  justify-content: space-between;
+  padding: 1%;
+}
+.logo {
+  cursor: pointer;
+}
+
+.btn-area {
+  cursor: pointer;
+  color: #fff;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 10px 30px;
+  margin: 2%;
+  border-radius: 5px;
+  background: rgb(233, 181, 194);
+}
+.btn-area:hover {
+  color: #fff !important;
+}
+
+.home {
+  color: cornsilk !important;
+  text-align: left !important;
+  margin: 2% !important;
+}
+img {
+  width: 3% !important;
+  height: 3% !important;
+}
